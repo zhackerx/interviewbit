@@ -1,0 +1,2 @@
+//program to find rank of permutation of given string
+class rank_of_permutation{
